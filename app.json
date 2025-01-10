@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Greeting-App",
+    "slug": "Greeting-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+  
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+   
+  }
+}

@@ -26,7 +26,7 @@ The app includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/RevanNasser/trpc-react-native.git
-   cd trpc-react-native-demo
+   cd trpc-react-native
 
 2. Install dependencies:
    ```bash
